@@ -12,7 +12,7 @@ public class MyClass1 implements Niit{
 	@Override
 	public void disp() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("This is Disp Form MyClass1");
 	}
 
 }
